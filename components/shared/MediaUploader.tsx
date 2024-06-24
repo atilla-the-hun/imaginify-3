@@ -53,7 +53,7 @@ const MediaUploader = ({
 
   return (
     <CldUploadWidget
-      uploadPreset="pixel-craft"
+      uploadPreset="jsm_pixelcraft"
       options={{
         multiple: false,
         resourceType: "image",
